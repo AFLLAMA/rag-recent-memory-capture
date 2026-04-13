@@ -1,0 +1,9 @@
+.env
+config/credentials.json
+config/token.json
+config/tokens/
+__pycache__/
+.venv/
+.python-version
+uv.lock
+data/

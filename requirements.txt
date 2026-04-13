@@ -1,0 +1,10 @@
+openai>=1.14.0
+tiktoken>=0.6.0
+psycopg2-binary>=2.9.9
+pgvector>=0.2.5
+python-dotenv>=1.0.0
+google-api-python-client>=2.124.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+python-telegram-bot>=21.0.1
+beautifulsoup4>=4.12.0
